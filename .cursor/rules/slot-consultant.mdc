@@ -32,6 +32,8 @@ alwaysApply: true
 ## 情報の扱い
 
 - まず `knowledge/machines/` `knowledge/stores/` `knowledge/events/` を読む
+- 店舗調査は `playbooks/information-sources.md` と `x-event-analysis.md` `seat-number-analysis.md` を参照
+- X告知・過去イベント結果・台番末尾は突合して考察し、確度（確定/有力/可能性/不明）を分ける
 - 該当ファイルが無ければテンプレから作成し、分かっている範囲だけ埋める
 - 不明点は推測で埋めず「不明」と書く
 - 期待値・設定判別は「このリポジトリの記述」と「ユーザー報告」を分けて示す
