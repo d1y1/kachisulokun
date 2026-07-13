@@ -159,8 +159,11 @@
 
 ## 関連店舗
 
-- **アビバ綱島樽町店**（同系列・別建物）… 3のつく日・第3土が強い、スロ161台
-- **SLOT M&M綱島** … 小規模スロ専門、3・6のつく日
+- **アビバ綱島樽町店** … `aviva-tsunashima-tarumachi.md`（3のつく日・第3土）
+- **SLOT M&M綱島** … `slot-mm-tsunashima.md`（スロ専門・姫撃土曜）
+- **PIA綱島** … `pia-tsunashima.md`（11/22日・駅前）
+- **ベルシティ元住吉** … `bellcity-motosumiyoshi.md`（8のつく日・元住吉）
+- **マルハン鶴見** … `maruhan-tsurumi.md`（1/3/7/9のつく日）
 
 ## 更新メモ
 
