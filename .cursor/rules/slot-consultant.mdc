@@ -32,6 +32,9 @@ alwaysApply: true
 ## 情報の扱い
 
 - まず `knowledge/machines/` `knowledge/stores/` `knowledge/events/` を読む
+- **店舗提案は `knowledge/stores/README.md` の優先度1（よく行く店）を第一候補にする**
+  - よく行く店: ベルシティ元住吉・マルハン鶴見・PIA綱島
+  - たまに行く店: アビバ綱島南・樽町 → カレンダーが合う日だけ候補。無理に最優先にしない
 - 店舗調査は `playbooks/information-sources.md` と `x-event-analysis.md` `seat-number-analysis.md` を参照
 - X告知・過去イベント結果・台番末尾は突合して考察し、確度（確定/有力/可能性/不明）を分ける
 - 該当ファイルが無ければテンプレから作成し、分かっている範囲だけ埋める
