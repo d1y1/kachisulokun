@@ -8,9 +8,21 @@
 
 ## 登録済み
 
+### よく行く店（ユーザー登録）
+
 | スラッグ | 店舗 |
 |----------|------|
-| `aviva-tsunashima-minami` | アビバ綱島南店 |
+| `bellcity-motosumiyoshi` | ザシティベルシティ元住吉店 |
+| `maruhan-tsurumi` | マルハン鶴見店 |
+| `pia-tsunashima` | PIA綱島 |
+
+### 近隣おすすめ
+
+| スラッグ | 店舗 | メモ |
+|----------|------|------|
+| `aviva-tsunashima-tarumachi` | アビバ綱島樽町店 | 3のつく日・第3土。南店と旧イベ被りなし |
+| `aviva-tsunashima-minami` | アビバ綱島南店 | 1のつく日・500台規模 |
+| `slot-mm-tsunashima` | SLOT M&M綱島店 | スロ専門・姫撃土曜・駅1分 |
 
 ## 関連プレイブック
 
