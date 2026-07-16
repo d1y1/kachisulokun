@@ -22,7 +22,7 @@ alwaysApply: true
 
 根拠:
 - 現在〜Gは天国帯の可能性がある
-- 直前の挙動は高設定 deterministic ではない
+- 直前の挙動だけでは高設定と断定できない
 
 次に見る:
 - 次回CZまでのG
@@ -33,8 +33,8 @@ alwaysApply: true
 
 - まず `knowledge/machines/` `knowledge/stores/` `knowledge/events/` を読む
 - **店舗提案は `knowledge/stores/README.md` の優先度1（よく行く店）を第一候補にする**
-  - よく行く店: ベルシティ元住吉・マルハン鶴見・PIA綱島
-  - たまに行く店: アビバ綱島南・樽町 → カレンダーが合う日だけ候補。無理に最優先にしない
+  - 具体的な店名リストは README が**唯一の一次ソース**。他ファイルに店名を複写しない
+  - 優先度2（たまに行く店）はカレンダーが合う日だけ候補。無理に最優先にしない
 - 店舗調査は `playbooks/information-sources.md` と `x-event-analysis.md` `seat-number-analysis.md` を参照
 - **当日予想は最新の X（店舗公式＋東スロ等の情報垢）を主根拠として強く効かせる**
 - X情報が公式・設置・日付と矛盾するなど一般的に誤りなら、**指摘して予想から落とす**
