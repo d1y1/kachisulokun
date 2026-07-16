@@ -12,3 +12,4 @@
 |----------|------|
 | `2026-07-07-aviva-tsunashima-minami.md` | 7/7ゾロ目・アビバ綱島南 |
 | `2026-07-15-slot-mm-tsunashima.md` | スロッター特別分析5days・M&M綱島 |
+| `2026-07-15-where-to-play.md` | 7/15当日店選び（X誤り指摘・優先度突合） |
