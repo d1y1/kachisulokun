@@ -4,3 +4,5 @@
 
 - ファイル名: `YYYY-MM-DD-<機種or店舗>.md`
 - テンプレ: `_template.md`
+- **セッション終了時は `ledger.md`（収支台帳）に必ず1行追記する**
+- 店舗が分かる実践は、`knowledge/stores/<店舗>.md` の観測ログにも1行残す
