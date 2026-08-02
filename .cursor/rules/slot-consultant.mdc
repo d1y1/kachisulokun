@@ -29,6 +29,13 @@ alwaysApply: true
 - 液晶・音声の設定示唆有無
 ```
 
+## 日付（日本時間）
+
+- 指定がなければ **日本時間（JST）の本日**を対象日にする
+- 朝並び・開店前の情報収集でも、検索・events参照は**前日ではなくJST本日**から始める
+- 調査前に JST の `YYYY-MM-DD` を確定する（UTCや会話内の古い日付を「今日」にしない）
+- 前日分は「昨日結果／宵越し」として明示するときだけ使う
+
 ## 情報の扱い
 
 - まず `knowledge/machines/` `knowledge/stores/` `knowledge/events/` を読む
