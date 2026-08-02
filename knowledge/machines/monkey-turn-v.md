@@ -124,6 +124,7 @@
 ## メモ・出典
 
 - ゲーム数ゾーンというより「周期＋激走pt＋ヘルメット」で判断する機種
+- 実践メモ（2026-08-02・ベルシティ857）: **ロゴなしヘルメットでも直後に天国再発あり**（見送り寄り≠天国否定）。ヤメはライバル／1G挙動とセットで判断
 - 出典（2026-07-14確認）:
   - https://chonborista.com/slot/yamasa-slot/198173/
   - https://www.slopachi-quest.com/article/monkey-turn5-tenjou/
