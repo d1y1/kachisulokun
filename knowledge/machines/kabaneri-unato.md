@@ -210,5 +210,6 @@
 
 ## メモ・出典
 
-- 出典: slobase.jp, slopachi-quest.com, altema.jp, nana-press.com, pityokomania.com
+- 出典: slobase.jp, slopachi-quest.com, altema.jp, nana-press.com, pityokomania.com, chonborista.com, pacnk.com
 - 2026-07-16: 穢れ（黒煙）・アイキャッチ・おみくじ要点、実戦Tipsを追記
+- 2026-08-02: 高設定で機械割が上がる要因・設定別スペック・3/4周期当選率を追記
