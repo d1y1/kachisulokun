@@ -7,14 +7,19 @@ description: 店舗傾向やイベント日程・狙い目を整理する。店�
 
 ## 手順
 
+0. **対象日を日本時間（JST）で確定する**（ユーザー指定がなければ本日）
+   - `TZ=Asia/Tokyo date '+%Y-%m-%d'` などで確認
+   - 朝並び・開店前の情報収集でも**前日日付で検索しない**
+   - UTC日付・会話内の古い日付・前日の `events/` ファイルを「今日」扱いしない
+   - 前日データは昨日結果・宵越し材料として明示したときだけ使う
 1. `knowledge/stores/README.md` で**よく行く店・たまに行く店**の優先度を確認
-2. `knowledge/stores/` と `knowledge/events/` を確認
+2. `knowledge/stores/` と `knowledge/events/` を確認（当日ファイルは JST本日の日付）
 3. プレイブックを参照:
    - `playbooks/store-scouting.md` … 全体方針
    - `playbooks/information-sources.md` … 情報源
    - `playbooks/x-event-analysis.md` … X告知×過去結果
    - `playbooks/seat-number-analysis.md` … 台番・末尾
-4. 店舗の **X告知** と **みんレポ等の過去結果** を突合（当日情報は Web 検索）
+4. 店舗の **X告知** と **みんレポ等の過去結果** を突合（**JST本日**の情報を Web / X 検索）
 5. **カタログの X 情報アカウント（東スロ等）は当日予想の主根拠として強く反映**する
 6. X情報が公式・設置・日付などと矛盾し一般的に誤りなら、**指摘して除外／減点**する
 7. 台番・末尾の癖は `knowledge/stores/` の観測ログを優先、なければデータサイトから考察
