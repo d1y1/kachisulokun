@@ -26,6 +26,7 @@
 | 1/2 / 半数 | 設置の半分に高設定 | 機種・エリア |
 | 取材 / ○○来店 | 特定機種・特定列が対象になりやすい | 過去の同取材の結果 |
 | S級ホール調査・赤（等） | WIN6GAME色別取材。メインAT帯が変わる | living: `knowledge/events/win6game-s-grade-red.md`（**鮮度期限を確認**。切れなら再取得） |
+| S級ホール調査・極- | WIN6GAME。赤より重い複合条件 | living: `knowledge/events/win6game-s-grade-kiwami.md`（**鮮度期限を確認**） |
 | クロロエンジェルS／P | クロロ厳選店の複合系。**公式公約なし** | living: `knowledge/events/chloro-angel-s.md`（**鮮度期限を確認**。切れなら再取得） |
 | 時差開放 / ○時～ | 午後から特定機種が狙い目 | 解放時刻・対象機種 |
 | ジャグラー系 | Aタイプ中心の仕掛け | AT狙いなら優先度下げ |
