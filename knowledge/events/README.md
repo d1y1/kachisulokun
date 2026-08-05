@@ -32,9 +32,14 @@
 |----------|------|
 | `calendar.md` | **旧イベ日付カレンダー（日にち×候補店・常設）** |
 | `win6game-s-grade-red.md` | **living** WIN6GAME「S級ホール調査-赤-」傾向・鮮度管理 |
+| `win6game-s-grade-kiwami.md` | **living** WIN6GAME「S級ホール調査-極-」傾向・鮮度管理 |
+| `chloro-angel-s.md` | **living** クロロエンジェルS来店の傾向・鮮度管理 |
+| `event-trends-catalog-1y.md` | **living** 8/5採用イベントの過去〜1年傾向カタログ |
+| `2026-08-05-touslot-kanagawa-star-events.md` | 8/5東スロ神奈川・星×イベント洗い出し＋傾向一括 |
 | `2026-08-02-bellcity-motosumiyoshi.md` | 8/2元住吉・S級赤／モンキー島 |
 | `2026-07-07-aviva-tsunashima-minami.md` | 7/7ゾロ目・アビバ綱島南 |
 | `2026-07-15-slot-mm-tsunashima.md` | スロッター特別分析5days・M&M綱島 |
+| `2026-08-05-slot-mm-tsunashima.md` | クロロエンジェルS・東スロ⭐4・M&M綱島 |
 | `2026-07-15-where-to-play.md` | 7/15当日店選び（X誤り指摘・優先度突合） |
 | `2026-07-17-where-to-play.md` | 7/17店選び（鶴見旧イベ第一・M&M 5days次点） |
 | `2026-07-18-where-to-play.md` | 7/18店選び（ベルシティ第一・鶴見クロロ並候補） |
