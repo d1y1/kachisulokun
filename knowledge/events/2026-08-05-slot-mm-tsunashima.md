@@ -3,6 +3,7 @@
 - 日付: 2026-08-05（水）
 - 店舗: SLOT M&M綱島店（`slot-mm-tsunashima`）
 - 最終更新: 2026-08-05
+- 関連 living: `chloro-angel-s.md`（傾向の鮮度管理はそちら）
 
 ## 結論（実践用）
 

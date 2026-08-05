@@ -114,7 +114,7 @@
 - 各店舗ファイルの `最終更新` が**90日超** → 提案に使う前にみんパチ・公式Xで旧イベ・営業情報を再確認し、日付を更新
 - 台番・末尾の傾向は**入替や配置変更があった時点で仮説に格下げ**（`playbooks/seat-number-analysis.md` 参照）
 - X情報垢のカタログ鮮度は `playbooks/information-sources.md` 側で管理（投稿停止→不明落ち）
-- 取材公約の **living**（`knowledge/events/win6game-s-grade-red.md` 等）は各ファイルの `鮮度期限日` を見る。切れなら更新してから引用（`events/README.md`）
+- 取材公約の **living**（`knowledge/events/win6game-s-grade-red.md` `chloro-angel-s.md` 等）は各ファイルの `鮮度期限日` を見る。切れなら更新してから引用（`events/README.md`）
 
 ## 関連プレイブック
 
