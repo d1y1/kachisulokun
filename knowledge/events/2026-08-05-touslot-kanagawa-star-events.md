@@ -7,6 +7,7 @@
   - ⭐: https://x.com/touslot/status/2084622124137009511
   - 取材一覧: https://touslo777souko.blog.jp/archives/34967743.html
   - 傾向: スロマップAI／rx7038／既存 living（赤・エンジェルS）
+- **過去〜1年の横断まとめ**: `event-trends-catalog-1y.md`
 
 ## 結論（読み方）
 
