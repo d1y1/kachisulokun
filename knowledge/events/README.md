@@ -34,6 +34,7 @@
 | `win6game-s-grade-red.md` | **living** WIN6GAME「S級ホール調査-赤-」傾向・鮮度管理 |
 | `win6game-s-grade-kiwami.md` | **living** WIN6GAME「S級ホール調査-極-」傾向・鮮度管理 |
 | `chloro-angel-s.md` | **living** クロロエンジェルS来店の傾向・鮮度管理 |
+| `hikaru-icchidanketsu.md` | **living** スロミュー「ヒカルの一致団結」傾向・鮮度管理 |
 | `event-trends-catalog-1y.md` | **living** 8/5採用イベントの過去〜1年傾向カタログ |
 | `2026-08-05-touslot-kanagawa-star-events.md` | 8/5東スロ神奈川・星×イベント洗い出し＋傾向一括 |
 | `2026-08-02-bellcity-motosumiyoshi.md` | 8/2元住吉・S級赤／モンキー島 |
