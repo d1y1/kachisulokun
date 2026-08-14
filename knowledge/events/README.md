@@ -37,6 +37,7 @@
 | `hikaru-icchidanketsu.md` | **living** スロミュー「ヒカルの一致団結」傾向・鮮度管理 |
 | `event-trends-catalog-1y.md` | **living** 8/5採用イベントの過去〜1年傾向カタログ |
 | `2026-08-05-touslot-kanagawa-star-events.md` | 8/5東スロ神奈川・星×イベント洗い出し＋傾向一括 |
+| `2026-08-15-bellcity-motosumiyoshi.md` | 8/15元住吉・SS・蓮くん／機種おすすめ |
 | `2026-08-12-bellcity-motosumiyoshi.md` | 8/12元住吉・東スロ⭐4＝必勝本SS・蓮くん |
 | `2026-08-11-bellcity-motosumiyoshi.md` | 8/11元住吉・スロセレ／入場106 |
 | `2026-08-02-bellcity-motosumiyoshi.md` | 8/2元住吉・S級赤／モンキー島 |
