@@ -31,6 +31,7 @@
 | ファイル | 内容 |
 |----------|------|
 | `calendar.md` | **旧イベ日付カレンダー（日にち×候補店・常設）** |
+| `2026-09-25-maruhan-tsurumi.md` | 9/25鶴見（でちゃうフェノメノン＋あしなっくす＋美の響宴） |
 | `2026-08-23-where-to-play.md` | 8/23店選び（鶴見＝③本命／M&M＝スロ姫＋③次点／樽町＝③補助） |
 | `win6game-s-grade-red.md` | **living** WIN6GAME「S級ホール調査-赤-」傾向・鮮度管理 |
 | `win6game-s-grade-kiwami.md` | **living** WIN6GAME「S級ホール調査-極-」傾向・鮮度管理 |
