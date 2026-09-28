@@ -21,6 +21,7 @@ description: スロット実践中の相談・設定期待値・ゾーン確認�
    - 気になる挙動・示唆
    - 目的（設定狙い / ゾーン消化 / イベント拾い）
 2. `knowledge/machines/<機種>.md` を読む。無ければ作成候補を出す
+   - **戦コレ6／戦国コレクション6**は `.cursor/skills/sengoku-collection-6/SKILL.md` を先に読み、示唆・設定差・ヤメ判断を即応する
 3. 店舗があれば `knowledge/stores/` と `knowledge/events/` も参照。**未指定なら README のよく行く店を優先**
 4. `playbooks/zone-check.md` と `playbooks/setting-inference.md` に沿って整理
    - **朝イチ台選び**: 機種・末尾・並び・台数。ゾーン○○G〜は禁止（`zone-check.md`）
