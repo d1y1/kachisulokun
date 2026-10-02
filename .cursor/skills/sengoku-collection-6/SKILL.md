@@ -5,7 +5,7 @@ description: スマスロ戦国コレクション6（戦コレ6）の設定示�
 
 # 戦コレ6 実践即応
 
-詳細スペック・期待値表は `knowledge/machines/sengoku-collection-6.md`。
+詳細スペック・**設定差数値表（1〜6／設1のみ公表）**は `knowledge/machines/sengoku-collection-6.md` の「設定差数値表」節。
 このスキルは**示唆の読み取りと設定／ヤメ判断**を最速で返すためのチートシート。
 
 ## いつ使うか
