@@ -39,6 +39,7 @@
 | `hikaru-icchidanketsu.md` | **living** スロミュー「ヒカルの一致団結」傾向・鮮度管理 |
 | `event-trends-catalog-1y.md` | **living** 8/5採用イベントの過去〜1年傾向カタログ |
 | `2026-08-05-touslot-kanagawa-star-events.md` | 8/5東スロ神奈川・星×イベント洗い出し＋傾向一括 |
+| `2026-10-18-bellcity-motosumiyoshi.md` | 10/18元住吉・⑧旧イベ／戦コレ845開始（東スロ系列⑧のみ） |
 | `2026-10-12-bellcity-motosumiyoshi.md` | 10/12元住吉・SS・蓮くん／戦コレ832開始 |
 | `2026-10-10-bellcity-motosumiyoshi.md` | 10/10元住吉・戦コレ845開始（旧イベ外・東スロ単店なし） |
 | `2026-08-15-bellcity-motosumiyoshi.md` | 8/15元住吉・SS・蓮くん／機種おすすめ |
