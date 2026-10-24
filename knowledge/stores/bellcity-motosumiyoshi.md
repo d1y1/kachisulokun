@@ -1,7 +1,7 @@
 # ザシティベルシティ元住吉店
 
 - エリア: 神奈川県川崎市中原区木月2丁目7番3号（東横線元住吉駅東口徒歩1分）
-- 最終更新: 2026-10-12
+- 最終更新: 2026-10-24
 - スラッグ: `bellcity-motosumiyoshi`
 - **訪問頻度: よく行く**（`knowledge/stores/README.md` 優先度1）
 
@@ -199,6 +199,7 @@
 
 ## 更新メモ
 
+- 2026-10-24: 平常日（旧イベ外・東スロに元住吉なし）。戦コレ832開始。`knowledge/events/2026-10-24-bellcity-motosumiyoshi.md`／`sessions/2026-10-24-bellcity-sengoku6.md`
 - 2026-10-12: 東スロでSS・蓮くん。戦コレ832開始。観測ログのマージコンフリクト解消（10/10＋10/3併記）。`knowledge/events/2026-10-12-bellcity-motosumiyoshi.md`／`sessions/2026-10-12-bellcity-sengoku6.md`
 - 2026-10-04: 蓮くん連日（10/3→10/4）。戦コレ希望。設置4台・隣並び優先。明日10/5新台入替。`knowledge/events/2026-10-04-bellcity-motosumiyoshi.md`
 - 2026-10-03: 蓮くん＋戦コレ。入場45で832→831。`knowledge/events/2026-10-03-bellcity-motosumiyoshi.md`／`sessions/2026-10-03-bellcity-sengoku6.md`
